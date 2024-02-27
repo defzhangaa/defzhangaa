@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defzhangaa
 - 👀 I’m interested in Machine Learning, Information Theory and Belief Function Theory
-- 🌱 I’m currently learning in SYSU, China
+- 🌱 I’m currently pursuing a master's degree in SYSU, China
 
 
 <!---
